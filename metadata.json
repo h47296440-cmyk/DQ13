@@ -1,0 +1,6 @@
+{
+  "name": "ドラゴンクエストⅩⅢ 失われた記憶の系譜",
+  "description": "本格ドラクエ風コマンドRPG『ドラゴンクエストⅩⅢ 失われた記憶の系譜』。失われた記憶を取り戻す旅、記憶の石版システム、オリジナルBGM・効果音再現。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
